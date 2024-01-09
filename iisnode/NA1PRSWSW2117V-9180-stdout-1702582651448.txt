@@ -1,0 +1,3 @@
+Environment: production
+Port: \\.\pipe\7bc1715c-88a6-4820-8e7d-08329770ac77
+> Ready on http://localhost:\\.\pipe\7bc1715c-88a6-4820-8e7d-08329770ac77

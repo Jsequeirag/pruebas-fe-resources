@@ -1,0 +1,23 @@
+{
+  "requestsList": [
+    {
+      "specialRequest_Id": 1,
+      "dateCreated": "2023-04-04",
+      "dateInitial": "2023-04-04",
+      "dateFinally": "2023-04-04",
+      "requestDays": 1,
+      "remainingDays": 1,
+      "notes": "string",
+      "fk_User_Id": "string",
+      "fk_Conjunct_Id": "string",
+      "fk_TypeSpecialRequest_Id": "string",
+      "state_Id": "string",
+      "type": {
+        "descripcion": "string"
+      },
+      "user": {
+        "name": "string"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "resources-vacaciones-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node server.js",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/error-message": "^2.0.1",
+    "axios": "^1.6.5",
+    "cookie": "^0.6.0",
+    "json-server": "^1.0.0-alpha.14",
+    "mdbreact": "^5.2.0",
+    "moment": "^2.29.4",
+    "next": "14.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.48.2",
+    "react-pdf": "^7.6.0",
+    "sweetalert2": "^11.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "cross-env": "^7.0.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.1",
+    "typescript": "^5"
+  }
+}
